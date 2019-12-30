@@ -1,0 +1,6 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.0064701333089049;DefaultEntity.15;Transmetro;2.OnEnteredProcessing;[Delay] ProcessingTime;Unable to get value of property 'Transmetro.ProcessingTime'.
+0.0064701333089049;DefaultEntity.15;Transmetro;2.OnEnteredProcessing;[Delay] ProcessingTime;Invalid parameters for Triangular probability distribution.
+0.0064701333089049;DefaultEntity.15;Transmetro;2.OnEnteredProcessing;[Delay] ProcessingTime;Possible causes:
+0.0064701333089049;DefaultEntity.15;Transmetro;2.OnEnteredProcessing;[Delay] ProcessingTime;min, mode, and max parameters are out of order.
+

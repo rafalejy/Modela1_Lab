@@ -1,0 +1,5 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+1;Server1;Model;10.InventarioA_OnReplenishmentOrder;[Produce] Produce1;Unable to resolve inventory data for material 'MaterialA' at site object 'Model'.
+1;Server1;Model;10.InventarioA_OnReplenishmentOrder;[Produce] Produce1;The Location Based Inventory property of the material is set to True but no inventory element for the site was found.
+1;Server1;Model;10.InventarioA_OnReplenishmentOrder;[Produce] Produce1;Verify that a site object has been specified and that an inventory element for the required Material Name-Site Object Name pair has been added to the model.
+
